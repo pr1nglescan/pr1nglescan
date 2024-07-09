@@ -1,14 +1,14 @@
 # I'm David Kuang (he/him), a CS-Math and Urban Studies student
-I'm excited to show you the neat little projects I've been working on recently!
+I'm excited to show you the projects I've been working on recently!
 
 ## 🔭 I’m currently working on: 
-A food diary app. Mapping pedestrian-auto accidents. CS homework 🥲
+Machine Learning for New York's real estate market. GIS mapping applications. CS homework 🥲
 
 ## 🌱 I’m currently learning:
-C. Swift. Data science. And excel keyboard shortcuts!
+C. Swift. Sci-Kit Learn. And excel keyboard shortcuts always!
 
 ## ⚡ Fun fact:
-Competitive figure skater with the CU Figure Skating Club. Foodie at heart <3
+Competitive figure skater with the CU Figure Skating Club. Foodie at heart
 
 
 <!--
